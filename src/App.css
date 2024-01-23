@@ -61,7 +61,7 @@ body {
   font-size: var(--font-size);
   font-weight: var(--weights-bold);
   color: var(--dark-purple);
-  max-width: 65%;
+  max-width: 70%;
 }
 
 .question__desc {
@@ -86,5 +86,9 @@ body {
     max-width: 500px;
     width: 90%;
     margin: 140px auto;
+  }
+
+  .question__title {
+    max-width: 85%;
   }
 }
